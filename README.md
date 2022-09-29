@@ -1,16 +1,6 @@
-<div align="center"><img src="./assets/head.jpg"></div>
-
-# AWESOME DATA SCIENCE
+# DATA SCIENCE - MT
 
 **An open source Data Science repository to learn and apply towards solving real world problems.**
-
-This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
-
-## Sponsors
-
-| Sponsor | Pitch |
-| --- | --- |
-| --- | Be the first to sponsor! `github@academic.io` |
 
 
 
@@ -930,13 +920,6 @@ Some data mining competition platforms
 - [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 
 
-## Awesome Data Science
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Subscribe to new links](https://app.releasly.co/assets/badges/badge-awesome-blue.svg)](https://app.releasly.co/sites/academic/awesome-datascience?utm_source=github_badge)
-
-## Hobby
-- [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
-
 ## Other Lists
 
 - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
@@ -966,13 +949,3 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YL0RV0E5XZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YL0RV0E5XZ');
-</script>
